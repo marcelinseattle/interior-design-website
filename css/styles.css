@@ -34,3 +34,11 @@ p {
 img {
   height: 300px;
 }
+
+#image {
+  margin: 20px;
+  border: 5px solid black;
+  padding: 10px;
+  background-color: green;
+  
+}
