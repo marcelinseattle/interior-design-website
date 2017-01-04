@@ -1,0 +1,36 @@
+h1 {
+  font-size: 30px;
+  font-style: italic;
+}
+
+h2 {
+  font-family: sans-serif;
+  font-size: 15px;
+}
+
+p {
+  font-family: serif;
+  font-size: 30px;
+}
+
+.main {
+  text-align: center;
+}
+
+.before {
+  float: left;
+}
+
+.after {
+  float: right;
+}
+
+.during {
+  float: left;
+  position: relative;
+  left: 25%;
+}
+
+img {
+  height: 300px;
+}
